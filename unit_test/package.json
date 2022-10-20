@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/devleejb/test-driven-dev#readme",
   "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "faker": "^6.6.6",
     "jest": "^29.2.1"
   }
 }
