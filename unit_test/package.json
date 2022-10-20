@@ -1,0 +1,22 @@
+{
+  "name": "unit-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devleejb/test-driven-dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devleejb/test-driven-dev/issues"
+  },
+  "homepage": "https://github.com/devleejb/test-driven-dev#readme",
+  "dependencies": {
+    "jest": "^29.2.1"
+  }
+}
