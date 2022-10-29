@@ -1,0 +1,15 @@
+/Users/jongbeomlee/VSCodeProjects/test-driven-dev/Variance/obj/Debug/net6.0/Variance.csproj.AssemblyReference.cache
+/Users/jongbeomlee/VSCodeProjects/test-driven-dev/Variance/obj/Debug/net6.0/Variance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jongbeomlee/VSCodeProjects/test-driven-dev/Variance/obj/Debug/net6.0/Variance.AssemblyInfoInputs.cache
+/Users/jongbeomlee/VSCodeProjects/test-driven-dev/Variance/obj/Debug/net6.0/Variance.AssemblyInfo.cs
+/Users/jongbeomlee/VSCodeProjects/test-driven-dev/Variance/obj/Debug/net6.0/Variance.csproj.CoreCompileInputs.cache
+/Users/jongbeomlee/VSCodeProjects/test-driven-dev/Variance/bin/Debug/net6.0/Variance
+/Users/jongbeomlee/VSCodeProjects/test-driven-dev/Variance/bin/Debug/net6.0/Variance.deps.json
+/Users/jongbeomlee/VSCodeProjects/test-driven-dev/Variance/bin/Debug/net6.0/Variance.runtimeconfig.json
+/Users/jongbeomlee/VSCodeProjects/test-driven-dev/Variance/bin/Debug/net6.0/Variance.dll
+/Users/jongbeomlee/VSCodeProjects/test-driven-dev/Variance/bin/Debug/net6.0/Variance.pdb
+/Users/jongbeomlee/VSCodeProjects/test-driven-dev/Variance/obj/Debug/net6.0/Variance.dll
+/Users/jongbeomlee/VSCodeProjects/test-driven-dev/Variance/obj/Debug/net6.0/refint/Variance.dll
+/Users/jongbeomlee/VSCodeProjects/test-driven-dev/Variance/obj/Debug/net6.0/Variance.pdb
+/Users/jongbeomlee/VSCodeProjects/test-driven-dev/Variance/obj/Debug/net6.0/Variance.genruntimeconfig.cache
+/Users/jongbeomlee/VSCodeProjects/test-driven-dev/Variance/obj/Debug/net6.0/ref/Variance.dll
