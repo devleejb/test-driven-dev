@@ -14,3 +14,4 @@
 4. [단위 테스트](https://distinct-bulb-c95.notion.site/4-b8c2ac140b464fc789e604b3e2a0c128)
 5. [테스트 우선 개발](https://distinct-bulb-c95.notion.site/5-522fa6fe197a49f1840272058b3ebf2e)
 6. [정리된 코드](https://distinct-bulb-c95.notion.site/6-a921db88b120426fac43c3852df5637e)
+7. [테스트 주도 개발](https://distinct-bulb-c95.notion.site/7-a67fb0fd79fc4a7c9955bcb144ae267c)

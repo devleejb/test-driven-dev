@@ -82,3 +82,12 @@ describe("given banned word", () => {
     expect(actual).toBe(expected);
   });
 });
+
+test.each`
+  source             | expected
+  ${"  hello world"} | ${"hello world"}
+`("sut correctly trim whitespace", ({ source, expected }) => {
+  const actual = sut(source);
+
+  expect(actual).toBe(expected);
+});
