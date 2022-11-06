@@ -16,3 +16,4 @@
 6. [정리된 코드](https://distinct-bulb-c95.notion.site/6-a921db88b120426fac43c3852df5637e)
 7. [테스트 주도 개발](https://distinct-bulb-c95.notion.site/7-a67fb0fd79fc4a7c9955bcb144ae267c)
 8. [프로그래머 피드백](https://distinct-bulb-c95.notion.site/8-118bae51887e430c8c6e8e3d98dbdc53)
+9. [장난감 (1)](https://distinct-bulb-c95.notion.site/9-1-ff4244cde7764189b32e6acd25e07766)
