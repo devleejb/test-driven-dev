@@ -17,3 +17,5 @@
 7. [테스트 주도 개발](https://distinct-bulb-c95.notion.site/7-a67fb0fd79fc4a7c9955bcb144ae267c)
 8. [프로그래머 피드백](https://distinct-bulb-c95.notion.site/8-118bae51887e430c8c6e8e3d98dbdc53)
 9. [장난감 (1)](https://distinct-bulb-c95.notion.site/9-1-ff4244cde7764189b32e6acd25e07766)
+10. [장난감 (2)](https://distinct-bulb-c95.notion.site/9-2-9e0d584923ad40fa8dd1133cb80fd308)
+11. [장난감 (3)](https://distinct-bulb-c95.notion.site/9-3-65f40047713f47e996a64f78d62b7e7f)
