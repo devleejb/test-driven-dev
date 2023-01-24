@@ -26,3 +26,4 @@
 2. [환경 변화와 적응력](https://distinct-bulb-c95.notion.site/2-a598fa76150d4f0299cb3705c1bc4d17)
 3. [입력과 출력](https://distinct-bulb-c95.notion.site/3-ee345ec17b8441ad9dddb3cd72bf9b8e)
 4. [테스트 대역](https://distinct-bulb-c95.notion.site/4-657ed87a430b4502b389d1b60bc4f914)
+5. [Mockists vs. Classicists](https://distinct-bulb-c95.notion.site/5-Mockists-vs-Classicsts-7d69651780fb4561a626949175083ad0)
