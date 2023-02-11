@@ -28,3 +28,6 @@
 4. [테스트 대역](https://distinct-bulb-c95.notion.site/4-657ed87a430b4502b389d1b60bc4f914)
 5. [Mockists vs. Classicists](https://distinct-bulb-c95.notion.site/5-Mockists-vs-Classicsts-7d69651780fb4561a626949175083ad0)
 6. [Should I test private method?](https://distinct-bulb-c95.notion.site/6-Should-I-test-private-method-8f8ec165a7914046a33b2e54d85c51f6)
+7. [테스트 주도 개발](https://distinct-bulb-c95.notion.site/7-47494e7f0eae4036aabbea4c29ad5332)
+8. [테스트 주도 개발의 한계](https://distinct-bulb-c95.notion.site/8-d856054b8c3440c68c9f43c647db384d)
+9. [인터페이스와 테스트](https://distinct-bulb-c95.notion.site/9-199e863f13e04080a0175a6f99c7e2cf)
