@@ -31,3 +31,4 @@
 7. [테스트 주도 개발](https://distinct-bulb-c95.notion.site/7-47494e7f0eae4036aabbea4c29ad5332)
 8. [테스트 주도 개발의 한계](https://distinct-bulb-c95.notion.site/8-d856054b8c3440c68c9f43c647db384d)
 9. [인터페이스와 테스트](https://distinct-bulb-c95.notion.site/9-199e863f13e04080a0175a6f99c7e2cf)
+10. [인수 테스트 주도 개발](https://distinct-bulb-c95.notion.site/10-96f4f6cd10d34a0e8fb0f6cfcf3f3f89)
